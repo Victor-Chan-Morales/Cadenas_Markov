@@ -7,7 +7,7 @@ import ExportPanel from './components/ExportPanel'
 import Theory from './components/Theory'
 
 export default function App() {
-  const [states, setStates] = useState(['Warehouse','Loading','InTransit','Delayed','Delivered'])
+  const [states, setStates] = useState(['Almacén','Carga','En tránsito','Retrasado','Entregado'])
   const [P, setP] = useState([
     [0.1,0.8,0,0,0.1],
     [0.05,0.1,0.8,0.05,0],
