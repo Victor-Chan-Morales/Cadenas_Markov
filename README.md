@@ -51,7 +51,3 @@ npm start -- --interactive
 📂 tests/     # 🧪 Pruebas
 📂 docs/      # 📚 Todo el conocimiento
 ```
-
-
-## 🎉 ¡Diviértete!
-Recuerda: La mejor manera de aprender es jugando con el código. 🎮
